@@ -6,10 +6,14 @@ Swagger Documentation found at http://localhost:8080/swagger-ui/index.html#/book
 
 Used:
 
- Springboot
- Gradle
- H2 database
- Mockito
- Juniit
- Swagger
+   **Springboot**
 
+   **Gradle**
+
+   **H2 database**
+
+   **Mockito**
+
+   **Junit**
+
+   **Swagger**
